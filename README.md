@@ -37,5 +37,5 @@ Tools Used:
 <br>
 
 <p align="center">
-<img align="center" width="724" alt="Screen Shot 2024-01-11 at 1 49 47 PM" src="https://github.com/ashhass/Chatbot/assets/53818655/e6b2d942-0db5-4d40-b05a-b70d2b5fd042" >
+<img align="center" width="724" alt="Screen Shot 2024-01-11 at 1 49 47 PM" src="./static/kurapika_chat.png" >
 </p>
