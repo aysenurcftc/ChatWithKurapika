@@ -12,7 +12,8 @@ def index():
 @app.route('/chat', methods=['GET', 'POST'])
 def chat():
     message = request.form['msg']
-    return response(message)
+    reply = response(message)
+    return jsonify(reply)
 
 
 
